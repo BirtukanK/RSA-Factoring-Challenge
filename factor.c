@@ -13,7 +13,7 @@ for (q = 2; q < num; q++)
 {
 if (num % q == 0)
 {
-printf("%d=%d*%d\n", num, num/q, q);
+printf("%d=%d*%d\n", num, num / q, q);
 break;
 }
 }
